@@ -6,5 +6,5 @@ App to train vocabulary in the form of a basic game; the user is presented with 
 <img src="sc2.png" alt="" width="150">
 <img src="sc3.png" alt="" width="150">
 
-##Download
+## Download
 The app is currently in internal testing on google's play store, contact me on grindhaugappdev@gmail.com to be added to list of testers.
