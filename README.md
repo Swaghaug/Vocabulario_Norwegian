@@ -7,4 +7,8 @@ App to train vocabulary in the form of a basic game; the user is presented with 
 <img src="sc3.png" alt="" width="150">
 
 ## Download
+### From Play Store
 The app is currently in internal testing on google's play store, contact me on grindhaugappdev@gmail.com to be added to list of testers.
+
+### Direct
+Download the APK and use software to read it. I understand it is questionable which is why I include the internal test as an option.
